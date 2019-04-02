@@ -1,0 +1,3 @@
+git config --global user.name "guoyanbiao"
+git config --global user.email "guoyanbiao520@163.com"
+ C:/Users/Administrator/gitrepository/.git/
